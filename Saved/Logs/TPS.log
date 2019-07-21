@@ -995,3 +995,45 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.21-21.43.08:101][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
 [2019.07.21-21.43.08:440][523]LogSavePackage: Moving '../../../../../../Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy/Saved/ThirdPersonExampleMap_Auto5C4F8237B45697F99C5EBFB8D4B8310C4.tmp' to '../../../../../../Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
 [2019.07.21-21.43.08:652][523]LogSavePackage: Moving '../../../../../../Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy/Saved/ThirdPersonExampleMap_Auto5_BuilC5E5AF4F429DE0E664EE37B92F52CB27.tmp' to '../../../../../../Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5_BuiltData.uasset'
+[2019.07.21-21.45.25:273][ 51]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.21-21.45.25:295][ 51]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.21-21.45.25:295][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.21-21.45.25:295][ 51]PIE: New page: PIE session: ThirdPersonExampleMap_Auto5 (Jul 21, 2019, 1:45:25 PM)
+[2019.07.21-21.45.25:295][ 51]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5
+[2019.07.21-21.45.25:314][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018870s)
+[2019.07.21-21.45.25:315][ 51]LogAIModule: Creating AISystem for world ThirdPersonExampleMap_Auto5
+[2019.07.21-21.45.25:315][ 51]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2019.07.21-21.45.25:315][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 (0.019742s)
+[2019.07.21-21.45.25:357][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.07.21-21.45.25:394][ 51]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.21-21.45.25:408][ 51]LogInit: FAudioDevice initialized.
+[2019.07.21-21.45.25:441][ 51]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.21-21.45.25:443][ 51]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 up for play (max tick rate 0) at 2019.07.21-17.45.25
+[2019.07.21-21.45.25:444][ 51]LogWorld: Bringing up level for play took: 0.002024
+[2019.07.21-21.45.25:459][ 51]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5 0.673
+[2019.07.21-21.45.25:459][ 51]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.21-21.45.31:695][796]LogBlueprintUserMessages: [AnimBP_TPS_Player_C_0] Take_Magazine
+[2019.07.21-21.45.32:037][837]LogBlueprintUserMessages: [AnimBP_TPS_Player_C_0] Throw_Magazine
+[2019.07.21-21.45.33:091][963]LogBlueprintUserMessages: [AnimBP_TPS_Player_C_0] Put_Magazine_In Wep
+[2019.07.21-21.45.33:834][ 34]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.21-21.45.33:835][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.21-21.45.33:872][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.21-21.45.33:873][ 34]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.21-21.45.33:920][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.21-21.45.33:925][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2019.07.21-21.45.33:948][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.07.21-21.53.16:973][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.07.21-21.53.16:973][521]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5' took 0.041
+[2019.07.21-21.53.16:975][521]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/Content/PickUps/MasterPickup] ([1] browsable assets)...
+[2019.07.21-21.53.16:975][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Content/PickUps/MasterPickup]
+[2019.07.21-21.53.17:150][521]LogSavePackage: Moving '../../../../../../Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy/Saved/MasterPickup_Auto16C0866504CBD2B893F24528B84C7B0CC.tmp' to '../../../../../../Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy/Saved/Autosaves/Game/Inventory/Content/PickUps/MasterPickup_Auto1.uasset'
+[2019.07.21-21.53.17:154][521]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/Content/PickUps/Weapon_AR15] ([1] browsable assets)...
+[2019.07.21-21.53.17:154][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Content/PickUps/Weapon_AR15]
+[2019.07.21-21.53.17:178][521]LogSavePackage: Moving '../../../../../../Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy/Saved/Weapon_AR15_Auto1855E6B0B43DDA258C0E3999393C7D654.tmp' to '../../../../../../Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy/Saved/Autosaves/Game/Inventory/Content/PickUps/Weapon_AR15_Auto1.uasset'
+[2019.07.21-21.53.17:181][521]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/Content/PickUps/Weapon_AK47] ([1] browsable assets)...
+[2019.07.21-21.53.17:181][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Content/PickUps/Weapon_AK47]
+[2019.07.21-21.53.17:203][521]LogSavePackage: Moving '../../../../../../Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy/Saved/Weapon_AK47_Auto18854A7BF424EB960FC688E909A46D01C.tmp' to '../../../../../../Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy/Saved/Autosaves/Game/Inventory/Content/PickUps/Weapon_AK47_Auto1.uasset'
+[2019.07.21-21.53.17:207][521]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/Content/PickUps/Weapon_AK74U] ([1] browsable assets)...
+[2019.07.21-21.53.17:207][521]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Content/PickUps/Weapon_AK74U]
+[2019.07.21-21.53.17:231][521]LogSavePackage: Moving '../../../../../../Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy/Saved/Weapon_AK74U_Auto14CF9D02E4B8F9B6E3AB809B217012C92.tmp' to '../../../../../../Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy/Saved/Autosaves/Game/Inventory/Content/PickUps/Weapon_AK74U_Auto1.uasset'
+[2019.07.21-21.53.17:234][521]LogFileHelpers: Auto-saving content packages took 0.260
