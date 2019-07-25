@@ -1,0 +1,1244 @@
+﻿Log file open, 07/25/19 01:15:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TPS
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.454636
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-6800K CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Engine.ini]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Engine.ini]
+[2019.07.25-05.15.59:587][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Engine.ini]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Engine.ini]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.25-05.15.59:587][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Engine.ini]
+[2019.07.25-05.15.59:587][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Engine.ini]
+[2019.07.25-05.15.59:596][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.25-05.15.59:596][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.25-05.15.59:597][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.25-05.15.59:597][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.25-05.15.59:597][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.25-05.15.59:606][  0]LogHAL: Display: Platform has ~ 32 GB [34263347200 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.25-05.15.59:606][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.07.25-05.15.59:606][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.25-05.15.59:606][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-05.15.59:606][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.25-05.15.59:606][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2019.07.25-05.15.59:606][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-05.15.59:606][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2019.07.25-05.15.59:606][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-05.15.59:606][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.25-05.15.59:606][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.25-05.15.59:606][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.25-05.15.59:606][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2019.07.25-05.15.59:606][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2019.07.25-05.15.59:606][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Scalability.ini]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.25-05.15.59:607][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.07.25-05.15.59:608][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.25-05.15.59:608][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.07.25-05.15.59:608][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Config/Windows/Engine.ini]
+[2019.07.25-05.15.59:608][  0]LogInit: Computer: ANTHONY
+[2019.07.25-05.15.59:608][  0]LogInit: User: Schreiber
+[2019.07.25-05.15.59:608][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.07.25-05.15.59:608][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.07.25-05.15.59:608][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.07.25-05.15.59:608][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.25-05.15.59:608][  0]LogMemory: Process Physical Memory: 99.29 MB used, 99.29 MB peak
+[2019.07.25-05.15.59:608][  0]LogMemory: Process Virtual Memory: 98.69 MB used, 98.69 MB peak
+[2019.07.25-05.15.59:608][  0]LogMemory: Physical Memory: 15352.25 MB used,  17323.83 MB free, 32676.07 MB total
+[2019.07.25-05.15.59:608][  0]LogMemory: Virtual Memory: 4669.01 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.07.25-05.15.59:642][  0]LogInit: Using OS detected language (en-US).
+[2019.07.25-05.15.59:642][  0]LogInit: Using OS detected locale (en-US).
+[2019.07.25-05.15.59:643][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.07.25-05.15.59:804][  0]LogInit: Setting process to per monitor DPI aware
+[2019.07.25-05.15.59:854][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.25-05.15.59:854][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.25-05.16.00:126][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.25-05.16.00:126][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.25-05.16.00:238][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2019.07.25-05.16.00:238][  0]LogD3D11RHI:       8079/0/16338 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.07.25-05.16.00:245][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.25-05.16.00:245][  0]LogD3D11RHI:       0/0/16338 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.25-05.16.00:245][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.25-05.16.00:254][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.25-05.16.00:254][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2019.07.25-05.16.00:254][  0]LogWindows: EnumDisplayDevices:
+[2019.07.25-05.16.00:254][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2019.07.25-05.16.00:255][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2019.07.25-05.16.00:256][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.07.25-05.16.00:256][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2019.07.25-05.16.00:257][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.07.25-05.16.00:257][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2019.07.25-05.16.00:257][  0]LogD3D11RHI:   Driver Version: 431.36 (internal:26.21.14.3136, unified:431.36)
+[2019.07.25-05.16.00:257][  0]LogD3D11RHI:      Driver Date: 7-3-2019
+[2019.07.25-05.16.00:257][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2019.07.25-05.16.00:348][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.25-05.16.00:358][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.25-05.16.00:358][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.25-05.16.00:358][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.07.25-05.16.00:372][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.07.25-05.16.00:910][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.07.25-05.16.00:926][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.07.25-05.16.00:943][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.07.25-05.16.00:961][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.07.25-05.16.00:978][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.07.25-05.16.00:995][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.07.25-05.16.01:012][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.07.25-05.16.01:030][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.07.25-05.16.01:041][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.07.25-05.16.01:161][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.07.25-05.16.01:161][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.07.25-05.16.01:161][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.07.25-05.16.01:161][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.07.25-05.16.01:161][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.07.25-05.16.01:161][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.07.25-05.16.01:161][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.07.25-05.16.01:161][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.07.25-05.16.01:161][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.07.25-05.16.01:161][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.07.25-05.16.01:161][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.07.25-05.16.01:161][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.07.25-05.16.01:161][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.07.25-05.16.01:161][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.07.25-05.16.01:161][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.07.25-05.16.01:161][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.07.25-05.16.01:161][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.07.25-05.16.01:161][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.07.25-05.16.01:164][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.07.25-05.16.01:225][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.07.25-05.16.01:225][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.07.25-05.16.01:254][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.07.25-05.16.01:254][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.07.25-05.16.01:269][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.07.25-05.16.01:285][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.07.25-05.16.01:299][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.07.25-05.16.01:315][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.07.25-05.16.01:369][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.07.25-05.16.01:369][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.07.25-05.16.01:369][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.25-05.16.01:383][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.07.25-05.16.01:466][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (../../../../../../Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Intermediate/Shaders/WorkingDirectory/17860/).
+[2019.07.25-05.16.01:466][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Schreiber/AppData/Local/Temp/UnrealShaderWorkingDir/8697C77741AC754FA38132AE0F9A37C8/'.
+[2019.07.25-05.16.01:471][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.07.25-05.16.01:471][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.07.25-05.16.01:471][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.25-05.16.02:145][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.25-05.16.02:200][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/Schreiber/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.25-05.16.02:200][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Schreiber/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.07.25-05.16.02:200][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.25-05.16.02:200][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.25-05.16.02:200][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.25-05.16.02:200][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.07.25-05.16.02:213][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.25-05.16.02:213][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.25-05.16.02:213][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.07.25-05.16.02:226][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Schreiber/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.07.25-05.16.02:226][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.25-05.16.02:226][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.25-05.16.02:251][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.25-05.16.02:253][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.25-05.16.02:254][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.25-05.16.02:373][  0]LogAssetRegistry: FAssetRegistry took 0.0383 seconds to start up
+[2019.07.25-05.16.02:756][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.25-05.16.02:932][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.25-05.16.02:932][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.07.25-05.16.02:932][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.25-05.16.02:932][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.07.25-05.16.02:932][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.07.25-05.16.02:943][  0]LogNetVersion: TPS 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1145703864)
+[2019.07.25-05.16.03:380][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.058971 seconds
+[2019.07.25-05.16.03:387][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.07.25-05.16.03:387][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.07.25-05.16.03:388][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.25-05.16.04:694][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.25-05.16.04:711][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.25-05.16.04:849][  0]SourceControl: Source control is disabled
+[2019.07.25-05.16.04:850][  0]SourceControl: Source control is disabled
+[2019.07.25-05.16.04:855][  0]SourceControl: Source control is disabled
+[2019.07.25-05.16.04:858][  0]SourceControl: Source control is disabled
+[2019.07.25-05.16.04:991][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.25-05.16.05:174][  0]LogOcInput: OculusInput pre-init called
+[2019.07.25-05.16.06:115][  0]LogEngine: Initializing Engine...
+[2019.07.25-05.16.06:116][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.25-05.16.06:117][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.07.25-05.16.06:356][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.25-05.16.06:378][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.07.25-05.16.06:472][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.25-05.16.06:523][  0]LogInit: FAudioDevice initialized.
+[2019.07.25-05.16.06:523][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.25-05.16.11:626][  0]LogDerivedDataCache: Saved boot cache 5.10s 71MB C:/Users/Schreiber/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.07.25-05.16.11:637][  0]LogInit: Texture streaming: Enabled
+[2019.07.25-05.16.11:670][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.07.25-05.16.11:696][  0]LogInit: Transaction tracking system initialized
+[2019.07.25-05.16.11:732][  0]BlueprintLog: New page: Editor Load
+[2019.07.25-05.16.11:868][  0]LocalizationService: Localization service is disabled
+[2019.07.25-05.16.12:235][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.25-05.16.12:235][  0]LogCook: Display: Mobile HDR setting 1
+[2019.07.25-05.16.12:494][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Content/' took 0.14s
+[2019.07.25-05.16.12:494][  0]SourceControl: Source control is disabled
+[2019.07.25-05.16.12:495][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.07.25-05.16.12:495][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.25-05.16.12:495][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.181ms to complete.
+[2019.07.25-05.16.12:495][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.001
+[2019.07.25-05.16.12:752][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.16.12:759][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.16.12:768][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.16.12:776][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.16.12:786][  0]LogCollectionManager: Loaded 0 collections in 0.003146 seconds
+[2019.07.25-05.16.12:818][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/Collections/' took 0.01s
+[2019.07.25-05.16.12:818][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Content/Developers/Schreiber/Collections/' took 0.01s
+[2019.07.25-05.16.12:818][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Content/Collections/' took 0.00s
+[2019.07.25-05.16.12:818][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.07.25-05.16.12:827][  0]LogContentBrowser: Native class hierarchy populated in 0.0086 seconds. Added 2732 classes and 659 folders.
+[2019.07.25-05.16.12:835][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.25-05.16.12:838][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:840][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:841][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:842][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:843][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:844][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:845][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:846][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:847][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:848][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:849][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:850][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:850][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:851][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:852][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:852][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:853][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:854][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:855][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:855][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:856][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:857][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:857][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:858][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.25-05.16.12:945][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.25-05.16.12:952][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.07.25-05.16.12:969][  0]LogSlate: Took 0.000357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.25-05.16.12:971][  0]LogSlate: Took 0.000368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.07.25-05.16.12:976][  0]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.07.25-05.16.13:039][  0]LogRenderer: Reallocating scene render targets to support 1208x552 Format 10 NumSamples 1 (Frame:1).
+[2019.07.25-05.16.13:210][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.07.25-05.16.13:210][  0]LogLoad: (Engine Initialization) Total time: 17.93 seconds
+[2019.07.25-05.16.13:210][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.25-05.16.13:270][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2019.07.25-05.16.13:285][  0]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.25-05.16.14:069][ 84]LogAssetRegistry: Asset discovery search completed in 11.7211 seconds
+[2019.07.25-05.16.14:072][ 84]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.07.25-05.16.14:072][ 84]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2019.07.25-05.16.45:574][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-05.16.58:259][977]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.25-05.17.03:745][977]LogAIModule: Creating AISystem for world ThirdPersonExampleMap_Auto5
+[2019.07.25-05.17.03:775][977]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5
+[2019.07.25-05.17.03:813][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2019.07.25-05.17.03:814][977]LightingResults: New page: Lighting Build
+[2019.07.25-05.17.03:818][977]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2019.07.25-05.17.03:819][977]LoadErrors: New page: Loading map: ThirdPersonExampleMap_Auto5.umap
+[2019.07.25-05.17.03:819][977]MapCheck: New page: Map Check
+[2019.07.25-05.17.03:819][977]LightingResults: New page: Lighting Build
+[2019.07.25-05.17.03:847][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.07.25-05.17.03:861][977]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.07.25-05.17.03:892][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.07.25-05.17.03:921][977]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.25-05.17.03:921][977]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2019.07.25-05.17.03:921][977]LogFileHelpers: Loading map 'ThirdPersonExampleMap_Auto5' took 0.108
+[2019.07.25-05.17.12:713][  4]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/Content/Interaction/BP_Base_Interactable.BP_Base_Interactable
+[2019.07.25-05.17.12:994][  4]LogEnum: Warning: Enum name collision: 'Weapon_Type::NewEnumerator0' is in both '/Game/Inventory/Content/Interaction/Weapons/Weapon_Type.Weapon_Type' and '/Game/Inventory/Content/PickUps/Weapon_Type.Weapon_Type'
+[2019.07.25-05.17.12:994][  4]LogEnum: Warning: Enum name collision: 'Weapon_Type::NewEnumerator1' is in both '/Game/Inventory/Content/Interaction/Weapons/Weapon_Type.Weapon_Type' and '/Game/Inventory/Content/PickUps/Weapon_Type.Weapon_Type'
+[2019.07.25-05.17.12:994][  4]LogEnum: Warning: Enum name collision: 'Weapon_Type::NewEnumerator2' is in both '/Game/Inventory/Content/Interaction/Weapons/Weapon_Type.Weapon_Type' and '/Game/Inventory/Content/PickUps/Weapon_Type.Weapon_Type'
+[2019.07.25-05.17.12:994][  4]LogEnum: Warning: Enum name collision: 'Weapon_Type::NewEnumerator3' is in both '/Game/Inventory/Content/Interaction/Weapons/Weapon_Type.Weapon_Type' and '/Game/Inventory/Content/PickUps/Weapon_Type.Weapon_Type'
+[2019.07.25-05.17.12:994][  4]LogEnum: Warning: Enum name collision: 'Weapon_Type::NewEnumerator4' is in both '/Game/Inventory/Content/Interaction/Weapons/Weapon_Type.Weapon_Type' and '/Game/Inventory/Content/PickUps/Weapon_Type.Weapon_Type'
+[2019.07.25-05.17.12:994][  4]LogEnum: Warning: Enum name collision: 'Weapon_Type::NewEnumerator0' is in both '/Game/Inventory/Content/Interaction/Weapons/Weapon_Type.Weapon_Type' and '/Game/Inventory/Content/PickUps/Weapon_Type.Weapon_Type'
+[2019.07.25-05.17.12:994][  4]LogEnum: Warning: Enum name collision: 'Weapon_Type::NewEnumerator1' is in both '/Game/Inventory/Content/Interaction/Weapons/Weapon_Type.Weapon_Type' and '/Game/Inventory/Content/PickUps/Weapon_Type.Weapon_Type'
+[2019.07.25-05.17.12:994][  4]LogEnum: Warning: Enum name collision: 'Weapon_Type::NewEnumerator2' is in both '/Game/Inventory/Content/Interaction/Weapons/Weapon_Type.Weapon_Type' and '/Game/Inventory/Content/PickUps/Weapon_Type.Weapon_Type'
+[2019.07.25-05.17.12:994][  4]LogEnum: Warning: Enum name collision: 'Weapon_Type::NewEnumerator3' is in both '/Game/Inventory/Content/Interaction/Weapons/Weapon_Type.Weapon_Type' and '/Game/Inventory/Content/PickUps/Weapon_Type.Weapon_Type'
+[2019.07.25-05.17.12:994][  4]LogEnum: Warning: Enum name collision: 'Weapon_Type::NewEnumerator4' is in both '/Game/Inventory/Content/Interaction/Weapons/Weapon_Type.Weapon_Type' and '/Game/Inventory/Content/PickUps/Weapon_Type.Weapon_Type'
+[2019.07.25-05.17.13:010][  4]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.07.25-05.17.13:881][  4]LogSlate: Took 0.000353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.07.25-05.17.13:927][  5]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.07.25-05.17.26:830][329]BlueprintLog: New page: Compile BP_Base_Interactable
+[2019.07.25-05.17.27:127][329]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.07.25-05.17.32:377][846]LogRenderer: Reallocating scene render targets to support 1208x692 Format 10 NumSamples 1 (Frame:1).
+[2019.07.25-05.17.37:116][293]LogSavePackage: Moving '../../../../../../Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Saved/BP_Base_InteractableBDD82767454EE613BD65B88102D7505E.tmp' to '../../../../../../Users/Schreiber/Documents/Unreal Projects/TPS TEST ZONE - Copy - Copy (2)/Content/Inventory/Content/Interaction/BP_Base_Interactable.uasset'
+[2019.07.25-05.17.42:126][858]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/Content/Interaction/Weapons/BP_AK47.BP_AK47
+[2019.07.25-05.17.43:875][  6]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/Content/Interaction/Weapons/BP_AK47.BP_AK47
+[2019.07.25-05.17.47:143][179]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.07.25-05.17.55:526][867]BlueprintLog: New page: Compile BP_AK47
+[2019.07.25-05.17.55:781][867]LogUObjectHash: Compacting FUObjectHashTables data took   7.01ms
+[2019.07.25-05.17.57:034][988]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.25-05.17.57:061][988]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.17.57:061][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.25-05.17.57:061][988]PIE: New page: PIE session: ThirdPersonExampleMap_Auto5 (Jul 24, 2019, 9:17:57 PM)
+[2019.07.25-05.17.57:075][988]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5
+[2019.07.25-05.17.57:101][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025673s)
+[2019.07.25-05.17.57:102][988]LogAIModule: Creating AISystem for world ThirdPersonExampleMap_Auto5
+[2019.07.25-05.17.57:102][988]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2019.07.25-05.17.57:102][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 (0.026794s)
+[2019.07.25-05.17.57:163][988]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.07.25-05.17.57:197][988]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.25-05.17.57:212][988]LogInit: FAudioDevice initialized.
+[2019.07.25-05.17.57:300][988]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.25-05.17.57:304][988]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 up for play (max tick rate 0) at 2019.07.25-01.17.57
+[2019.07.25-05.17.57:304][988]LogWorld: Bringing up level for play took: 0.002313
+[2019.07.25-05.17.57:321][988]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2019.07.25-05.17.57:325][988]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2019.07.25-05.17.57:325][988]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.07.25-05.17.57:327][988]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5 0.478
+[2019.07.25-05.17.57:327][988]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.18.00:730][358]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.18.00:730][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.18.00:768][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.25-05.18.00:769][358]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.18.00:812][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.18.00:866][358]LogUObjectHash: Compacting FUObjectHashTables data took   5.94ms
+[2019.07.25-05.18.00:892][359]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.07.25-05.18.01:881][442]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.25-05.18.05:203][719]BlueprintLog: New page: Compile BP_Base_Interactable
+[2019.07.25-05.18.05:533][719]LogUObjectHash: Compacting FUObjectHashTables data took   5.16ms
+[2019.07.25-05.18.07:012][860]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.25-05.18.07:336][899]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.25-05.18.07:363][899]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.18.07:363][899]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.25-05.18.07:363][899]PIE: New page: PIE session: ThirdPersonExampleMap_Auto5 (Jul 24, 2019, 9:18:07 PM)
+[2019.07.25-05.18.07:363][899]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5
+[2019.07.25-05.18.07:384][899]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021339s)
+[2019.07.25-05.18.07:385][899]LogAIModule: Creating AISystem for world ThirdPersonExampleMap_Auto5
+[2019.07.25-05.18.07:385][899]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2019.07.25-05.18.07:385][899]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 (0.022238s)
+[2019.07.25-05.18.07:454][899]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.07.25-05.18.07:488][899]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.25-05.18.07:502][899]LogInit: FAudioDevice initialized.
+[2019.07.25-05.18.07:534][899]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.25-05.18.07:536][899]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 up for play (max tick rate 0) at 2019.07.25-01.18.07
+[2019.07.25-05.18.07:537][899]LogWorld: Bringing up level for play took: 0.002200
+[2019.07.25-05.18.07:552][899]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5 0.703
+[2019.07.25-05.18.07:552][899]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.18.10:431][240]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.18.10:432][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.18.10:468][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.25-05.18.10:468][240]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.18.10:509][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.18.10:515][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.07.25-05.18.10:539][241]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.07.25-05.18.12:360][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-05.18.16:299][785]BlueprintLog: New page: Compile BP_Base_Interactable
+[2019.07.25-05.18.16:617][785]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2019.07.25-05.18.17:792][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-05.18.17:884][920]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.25-05.18.17:913][920]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.18.17:913][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.25-05.18.17:913][920]PIE: New page: PIE session: ThirdPersonExampleMap_Auto5 (Jul 24, 2019, 9:18:17 PM)
+[2019.07.25-05.18.17:913][920]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5
+[2019.07.25-05.18.17:934][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020578s)
+[2019.07.25-05.18.17:934][920]LogAIModule: Creating AISystem for world ThirdPersonExampleMap_Auto5
+[2019.07.25-05.18.17:935][920]LogPlayLevel: PIE: World Init took: (0.000626s)
+[2019.07.25-05.18.17:935][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 (0.021342s)
+[2019.07.25-05.18.17:984][920]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.07.25-05.18.18:019][920]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.25-05.18.18:033][920]LogInit: FAudioDevice initialized.
+[2019.07.25-05.18.18:068][920]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.25-05.18.18:071][920]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 up for play (max tick rate 0) at 2019.07.25-01.18.18
+[2019.07.25-05.18.18:071][920]LogWorld: Bringing up level for play took: 0.002168
+[2019.07.25-05.18.18:086][920]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5 -0.762
+[2019.07.25-05.18.18:086][920]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.18.20:687][228]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.18.20:688][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.18.20:726][228]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.25-05.18.20:726][228]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.18.20:774][228]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.18.20:779][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2019.07.25-05.18.20:805][229]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.07.25-05.18.21:945][330]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.25-05.18.41:856][127]BlueprintLog: New page: Compile BP_AK47
+[2019.07.25-05.18.42:081][127]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2019.07.25-05.18.47:348][526]BlueprintLog: New page: Compile BP_AK47
+[2019.07.25-05.18.47:572][526]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.07.25-05.18.48:542][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-05.18.48:633][639]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.25-05.18.48:662][639]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.18.48:662][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.25-05.18.48:662][639]PIE: New page: PIE session: ThirdPersonExampleMap_Auto5 (Jul 24, 2019, 9:18:48 PM)
+[2019.07.25-05.18.48:663][639]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5
+[2019.07.25-05.18.48:683][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020488s)
+[2019.07.25-05.18.48:684][639]LogAIModule: Creating AISystem for world ThirdPersonExampleMap_Auto5
+[2019.07.25-05.18.48:684][639]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2019.07.25-05.18.48:684][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 (0.021185s)
+[2019.07.25-05.18.48:724][639]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2019.07.25-05.18.48:759][639]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.25-05.18.48:773][639]LogInit: FAudioDevice initialized.
+[2019.07.25-05.18.48:806][639]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.25-05.18.48:809][639]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 up for play (max tick rate 0) at 2019.07.25-01.18.48
+[2019.07.25-05.18.48:809][639]LogWorld: Bringing up level for play took: 0.002560
+[2019.07.25-05.18.48:825][639]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5 -0.024
+[2019.07.25-05.18.48:825][639]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.18.51:142][914]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:142][914]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:142][914]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:142][914]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:142][914]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:142][914]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:142][914]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:142][914]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:143][914]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:143][914]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:143][914]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:143][914]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:143][914]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:143][914]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:143][914]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:143][914]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:144][914]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:144][914]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:144][914]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:144][914]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:144][914]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:144][914]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:144][914]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:144][914]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:145][914]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:145][914]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:145][914]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:145][914]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:145][914]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:145][914]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:145][914]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:145][914]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:145][914]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:146][914]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:146][914]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:146][914]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:146][914]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:146][914]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:146][914]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:146][914]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:146][914]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:147][914]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:147][914]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:147][914]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:147][914]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:147][914]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:147][914]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:147][914]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:780][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-05.18.51:880][  1]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:880][  1]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:880][  1]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:880][  1]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:881][  1]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:881][  1]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:881][  1]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:881][  1]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:881][  1]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:881][  1]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:881][  1]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:881][  1]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:882][  1]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:882][  1]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:882][  1]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:882][  1]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:882][  1]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:882][  1]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:882][  1]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:882][  1]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:883][  1]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:883][  1]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:883][  1]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:883][  1]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:883][  1]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:883][  1]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:883][  1]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:883][  1]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:884][  1]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:884][  1]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:884][  1]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:884][  1]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:884][  1]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:884][  1]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:884][  1]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:884][  1]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:884][  1]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:884][  1]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:885][  1]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:885][  1]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:885][  1]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:885][  1]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:885][  1]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:885][  1]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:885][  1]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:885][  1]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:886][  1]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:886][  1]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.51:886][  1]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.51:886][  1]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.53:153][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.18.53:153][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.18.53:187][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.25-05.18.53:187][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.18.53:231][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.18.53:236][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.07.25-05.18.53:282][155]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.07.25-05.18.54:234][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-05.18.54:308][278]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.25-05.18.54:335][278]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.18.54:335][278]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.25-05.18.54:335][278]PIE: New page: PIE session: ThirdPersonExampleMap_Auto5 (Jul 24, 2019, 9:18:54 PM)
+[2019.07.25-05.18.54:335][278]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5
+[2019.07.25-05.18.54:359][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023852s)
+[2019.07.25-05.18.54:360][278]LogAIModule: Creating AISystem for world ThirdPersonExampleMap_Auto5
+[2019.07.25-05.18.54:360][278]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2019.07.25-05.18.54:360][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 (0.024793s)
+[2019.07.25-05.18.54:399][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.07.25-05.18.54:436][278]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.25-05.18.54:452][278]LogInit: FAudioDevice initialized.
+[2019.07.25-05.18.54:485][278]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.25-05.18.54:488][278]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 up for play (max tick rate 0) at 2019.07.25-01.18.54
+[2019.07.25-05.18.54:488][278]LogWorld: Bringing up level for play took: 0.002255
+[2019.07.25-05.18.54:503][278]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5 -0.345
+[2019.07.25-05.18.54:503][278]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.18.56:990][573]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:990][573]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:990][573]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:990][573]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:991][573]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:991][573]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:991][573]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:991][573]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:991][573]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:991][573]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:991][573]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:991][573]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:992][573]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:992][573]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:992][573]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:992][573]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:992][573]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:992][573]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:992][573]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:992][573]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:993][573]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:993][573]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:993][573]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:993][573]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:993][573]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:993][573]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:993][573]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:993][573]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:994][573]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:994][573]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:994][573]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:994][573]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:994][573]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:994][573]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:994][573]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:994][573]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:995][573]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:995][573]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:995][573]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:995][573]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:995][573]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:995][573]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:995][573]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:995][573]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:996][573]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:996][573]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.56:996][573]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.56:996][573]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.57:985][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-05.18.58:069][702]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:069][702]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:069][702]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:069][702]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:069][702]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:069][702]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:069][702]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:069][702]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:070][702]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:070][702]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:070][702]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:070][702]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:070][702]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:070][702]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:070][702]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:070][702]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:071][702]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:071][702]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:071][702]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:071][702]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:071][702]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:071][702]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:071][702]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:071][702]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:072][702]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:072][702]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:072][702]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:072][702]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:072][702]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:072][702]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:072][702]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:072][702]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:073][702]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:073][702]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:073][702]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:073][702]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:073][702]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:073][702]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:073][702]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:073][702]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:073][702]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:073][702]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:074][702]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:074][702]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:074][702]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:074][702]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:074][702]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:074][702]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.18.58:074][702]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.18.58:074][702]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:074][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-05.19.06:217][672]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:217][672]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:218][672]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:218][672]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:218][672]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:218][672]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:218][672]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:218][672]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:218][672]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:218][672]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:219][672]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:219][672]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:219][672]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:219][672]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:219][672]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:219][672]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:219][672]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:219][672]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:220][672]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:220][672]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:220][672]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:220][672]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:220][672]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:220][672]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:220][672]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:220][672]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:220][672]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:221][672]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:221][672]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:221][672]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:221][672]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:221][672]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:221][672]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:221][672]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:221][672]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:221][672]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:222][672]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:222][672]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:222][672]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:222][672]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:222][672]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:222][672]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:222][672]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:222][672]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:223][672]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:223][672]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:223][672]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Array' of length 1 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.19.06:223][672]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Inventory' of length 1 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.19.06:228][672]LogScript: Warning: Attempted to access BP_AK47_C_0 via property K2Node_DynamicCast_AsBP_Base_Weapon, but BP_AK47_C_0 is pending kill
+	PlayerUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.PlayerUI_C_0
+	Function /Game/ThirdPersonBP/UI/PlayerUI.PlayerUI_C:Get_CurrentAmmo_Text_0:00D5
+[2019.07.25-05.19.06:228][672]LogScript: Warning: Accessed None reading structure CurrentAmmo_8_D6D230694714AE84B15005BC8BA9E9B8
+	PlayerUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.PlayerUI_C_0
+	Function /Game/ThirdPersonBP/UI/PlayerUI.PlayerUI_C:Get_CurrentAmmo_Text_0:00EA
+[2019.07.25-05.19.06:228][672]LogScript: Warning: Attempted to access BP_AK47_C_0 via property K2Node_DynamicCast_AsBP_Base_Weapon, but BP_AK47_C_0 is pending kill
+	PlayerUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.PlayerUI_C_0
+	Function /Game/ThirdPersonBP/UI/PlayerUI.PlayerUI_C:Get_MaxAmmo_Text_0:00D5
+[2019.07.25-05.19.06:228][672]LogScript: Warning: Accessed None reading structure MaxAmmo_10_B808ED1E472BBF7909B4329B88360CED
+	PlayerUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.PlayerUI_C_0
+	Function /Game/ThirdPersonBP/UI/PlayerUI.PlayerUI_C:Get_MaxAmmo_Text_0:00EA
+[2019.07.25-05.19.06:234][673]LogScript: Warning: Attempted to access BP_AK47_C_0 via property K2Node_DynamicCast_AsBP_Base_Weapon, but BP_AK47_C_0 is pending kill
+	PlayerUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.PlayerUI_C_0
+	Function /Game/ThirdPersonBP/UI/PlayerUI.PlayerUI_C:Get_CurrentAmmo_Text_0:00D5
+[2019.07.25-05.19.06:234][673]LogScript: Warning: Accessed None reading structure CurrentAmmo_8_D6D230694714AE84B15005BC8BA9E9B8
+	PlayerUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.PlayerUI_C_0
+	Function /Game/ThirdPersonBP/UI/PlayerUI.PlayerUI_C:Get_CurrentAmmo_Text_0:00EA
+[2019.07.25-05.19.06:234][673]LogScript: Warning: Attempted to access BP_AK47_C_0 via property K2Node_DynamicCast_AsBP_Base_Weapon, but BP_AK47_C_0 is pending kill
+	PlayerUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.PlayerUI_C_0
+	Function /Game/ThirdPersonBP/UI/PlayerUI.PlayerUI_C:Get_MaxAmmo_Text_0:00D5
+[2019.07.25-05.19.06:234][673]LogScript: Warning: Accessed None reading structure MaxAmmo_10_B808ED1E472BBF7909B4329B88360CED
+	PlayerUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.PlayerUI_C_0
+	Function /Game/ThirdPersonBP/UI/PlayerUI.PlayerUI_C:Get_MaxAmmo_Text_0:00EA
+[2019.07.25-05.19.06:242][674]LogScript: Warning: Attempted to access BP_AK47_C_0 via property K2Node_DynamicCast_AsBP_Base_Weapon, but BP_AK47_C_0 is pending kill
+	PlayerUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.PlayerUI_C_0
+	Function /Game/ThirdPersonBP/UI/PlayerUI.PlayerUI_C:Get_CurrentAmmo_Text_0:00D5
+[2019.07.25-05.19.06:242][674]LogScript: Warning: Accessed None reading structure CurrentAmmo_8_D6D230694714AE84B15005BC8BA9E9B8
+	PlayerUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.PlayerUI_C_0
+	Function /Game/ThirdPersonBP/UI/PlayerUI.PlayerUI_C:Get_CurrentAmmo_Text_0:00EA
+[2019.07.25-05.19.06:242][674]LogScript: Warning: Attempted to access BP_AK47_C_0 via property K2Node_DynamicCast_AsBP_Base_Weapon, but BP_AK47_C_0 is pending kill
+	PlayerUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.PlayerUI_C_0
+	Function /Game/ThirdPersonBP/UI/PlayerUI.PlayerUI_C:Get_MaxAmmo_Text_0:00D5
+[2019.07.25-05.19.06:242][674]LogScript: Warning: Accessed None reading structure MaxAmmo_10_B808ED1E472BBF7909B4329B88360CED
+	PlayerUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.PlayerUI_C_0
+	Function /Game/ThirdPersonBP/UI/PlayerUI.PlayerUI_C:Get_MaxAmmo_Text_0:00EA
+[2019.07.25-05.19.06:250][675]LogScript: Warning: Attempted to access BP_AK47_C_0 via property K2Node_DynamicCast_AsBP_Base_Weapon, but BP_AK47_C_0 is pending kill
+	PlayerUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.PlayerUI_C_0
+	Function /Game/ThirdPersonBP/UI/PlayerUI.PlayerUI_C:Get_CurrentAmmo_Text_0:00D5
+[2019.07.25-05.19.06:251][675]LogScript: Warning: Accessed None reading structure CurrentAmmo_8_D6D230694714AE84B15005BC8BA9E9B8
+	PlayerUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.PlayerUI_C_0
+	Function /Game/ThirdPersonBP/UI/PlayerUI.PlayerUI_C:Get_CurrentAmmo_Text_0:00EA
+[2019.07.25-05.19.06:251][675]LogScript: Warning: Attempted to access BP_AK47_C_0 via property K2Node_DynamicCast_AsBP_Base_Weapon, but BP_AK47_C_0 is pending kill
+	PlayerUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.PlayerUI_C_0
+	Function /Game/ThirdPersonBP/UI/PlayerUI.PlayerUI_C:Get_MaxAmmo_Text_0:00D5
+[2019.07.25-05.19.06:251][675]LogScript: Warning: Accessed None reading structure MaxAmmo_10_B808ED1E472BBF7909B4329B88360CED
+	PlayerUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.PlayerUI_C_0
+	Function /Game/ThirdPersonBP/UI/PlayerUI.PlayerUI_C:Get_MaxAmmo_Text_0:00EA
+[2019.07.25-05.19.06:259][676]LogScript: Warning: Attempted to access BP_AK47_C_0 via property K2Node_DynamicCast_AsBP_Base_Weapon, but BP_AK47_C_0 is pending kill
+	PlayerUI_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.PlayerUI_C_0
+	Function /Game/ThirdPersonBP/UI/PlayerUI.PlayerUI_C:Get_CurrentAmmo_Text_0:00D5
+[2019.07.25-05.19.07:533][829]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.19.07:534][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.19.07:567][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.25-05.19.07:568][829]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.19.07:616][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.19.07:622][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.07.25-05.19.07:636][830]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.07.25-05.19.17:998][691]BlueprintLog: New page: Compile BP_AK47
+[2019.07.25-05.19.18:217][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.07.25-05.19.19:393][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-05.19.19:477][824]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.25-05.19.19:504][824]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.19.19:504][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.25-05.19.19:504][824]PIE: New page: PIE session: ThirdPersonExampleMap_Auto5 (Jul 24, 2019, 9:19:19 PM)
+[2019.07.25-05.19.19:505][824]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5
+[2019.07.25-05.19.19:525][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020847s)
+[2019.07.25-05.19.19:526][824]LogAIModule: Creating AISystem for world ThirdPersonExampleMap_Auto5
+[2019.07.25-05.19.19:526][824]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2019.07.25-05.19.19:526][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 (0.021616s)
+[2019.07.25-05.19.19:604][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2019.07.25-05.19.19:639][824]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.25-05.19.19:654][824]LogInit: FAudioDevice initialized.
+[2019.07.25-05.19.19:685][824]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.25-05.19.19:688][824]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 up for play (max tick rate 0) at 2019.07.25-01.19.19
+[2019.07.25-05.19.19:688][824]LogWorld: Bringing up level for play took: 0.002388
+[2019.07.25-05.19.19:703][824]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5 0.855
+[2019.07.25-05.19.19:703][824]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.19.22:687][179]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.19.22:688][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.19.22:725][179]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.25-05.19.22:725][179]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.19.22:772][179]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.19.22:777][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2019.07.25-05.19.22:801][180]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.07.25-05.19.23:784][256]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.25-05.19.30:334][881]BlueprintLog: New page: Compile BP_Base_Interactable
+[2019.07.25-05.19.30:635][881]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2019.07.25-05.19.32:114][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.25-05.19.32:504][ 98]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.25-05.19.32:535][ 98]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.19.32:535][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.25-05.19.32:535][ 98]PIE: New page: PIE session: ThirdPersonExampleMap_Auto5 (Jul 24, 2019, 9:19:32 PM)
+[2019.07.25-05.19.32:535][ 98]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5
+[2019.07.25-05.19.32:556][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021174s)
+[2019.07.25-05.19.32:557][ 98]LogAIModule: Creating AISystem for world ThirdPersonExampleMap_Auto5
+[2019.07.25-05.19.32:557][ 98]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2019.07.25-05.19.32:557][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 (0.022033s)
+[2019.07.25-05.19.32:598][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2019.07.25-05.19.32:631][ 98]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.25-05.19.32:645][ 98]LogInit: FAudioDevice initialized.
+[2019.07.25-05.19.32:680][ 98]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.25-05.19.32:682][ 98]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 up for play (max tick rate 0) at 2019.07.25-01.19.32
+[2019.07.25-05.19.32:683][ 98]LogWorld: Bringing up level for play took: 0.002231
+[2019.07.25-05.19.32:698][ 98]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5 -0.15
+[2019.07.25-05.19.32:698][ 98]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.19.33:999][251]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.19.34:000][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.19.34:039][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.25-05.19.34:040][251]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.19.34:083][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.19.34:088][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.07.25-05.19.34:112][252]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.07.25-05.19.35:877][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-05.19.44:569][237]BlueprintLog: New page: Compile BP_AK47
+[2019.07.25-05.19.44:791][237]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2019.07.25-05.19.57:092][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.25-05.19.57:909][612]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/Content/Interaction/Weapons/BP_BaseWeapon.BP_BaseWeapon
+[2019.07.25-05.20.39:035][ 50]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Inventory/Content/Interaction/BP_Base_Interactable.BP_Base_Interactable
+[2019.07.25-05.21.04:410][421]BlueprintLog: New page: Compile BP_Base_Interactable
+[2019.07.25-05.21.04:746][421]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2019.07.25-05.21.15:883][544]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.07.25-05.21.45:815][524]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.07.25-05.21.46:195][524]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2019.07.25-05.21.48:197][702]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.25-05.21.48:227][702]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.21.48:227][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.25-05.21.48:227][702]PIE: New page: PIE session: ThirdPersonExampleMap_Auto5 (Jul 24, 2019, 9:21:48 PM)
+[2019.07.25-05.21.48:227][702]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5
+[2019.07.25-05.21.48:249][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021463s)
+[2019.07.25-05.21.48:249][702]LogAIModule: Creating AISystem for world ThirdPersonExampleMap_Auto5
+[2019.07.25-05.21.48:250][702]LogPlayLevel: PIE: World Init took: (0.000588s)
+[2019.07.25-05.21.48:250][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 (0.022178s)
+[2019.07.25-05.21.48:304][702]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2019.07.25-05.21.48:339][702]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.25-05.21.48:355][702]LogInit: FAudioDevice initialized.
+[2019.07.25-05.21.48:386][702]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.25-05.21.48:389][702]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 up for play (max tick rate 0) at 2019.07.25-01.21.48
+[2019.07.25-05.21.48:389][702]LogWorld: Bringing up level for play took: 0.002222
+[2019.07.25-05.21.48:404][702]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5 -0.444
+[2019.07.25-05.21.48:404][702]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.21.56:745][690]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.21.56:745][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.21.56:790][690]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.25-05.21.56:790][690]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.21.56:844][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.21.56:849][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2019.07.25-05.21.56:875][691]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.07.25-05.21.58:047][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.25-05.22.04:504][346]BlueprintLog: New page: Compile BP_Base_Interactable
+[2019.07.25-05.22.04:827][346]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2019.07.25-05.22.07:817][629]LogEditorTransaction: Undo Change Collision Profile
+[2019.07.25-05.22.27:538][424]BlueprintLog: New page: Compile BP_AK47
+[2019.07.25-05.22.27:787][424]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2019.07.25-05.22.31:372][708]BlueprintLog: New page: Compile BP_AK47
+[2019.07.25-05.22.31:615][708]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.07.25-05.22.32:883][839]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.25-05.22.32:934][839]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.22.32:934][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.25-05.22.32:934][839]PIE: New page: PIE session: ThirdPersonExampleMap_Auto5 (Jul 24, 2019, 9:22:32 PM)
+[2019.07.25-05.22.32:934][839]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5
+[2019.07.25-05.22.32:955][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021053s)
+[2019.07.25-05.22.32:955][839]LogAIModule: Creating AISystem for world ThirdPersonExampleMap_Auto5
+[2019.07.25-05.22.32:956][839]LogPlayLevel: PIE: World Init took: (0.000600s)
+[2019.07.25-05.22.32:956][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 (0.021786s)
+[2019.07.25-05.22.33:001][839]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.07.25-05.22.33:035][839]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.25-05.22.33:049][839]LogInit: FAudioDevice initialized.
+[2019.07.25-05.22.33:082][839]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.07.25-05.22.33:085][839]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5 up for play (max tick rate 0) at 2019.07.25-01.22.33
+[2019.07.25-05.22.33:085][839]LogWorld: Bringing up level for play took: 0.002269
+[2019.07.25-05.22.33:101][839]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap_Auto5 0.253
+[2019.07.25-05.22.33:101][839]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.22.37:970][420]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:970][420]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:971][420]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:971][420]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:971][420]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:971][420]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:971][420]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:971][420]LogScript: Warning: Script Msg: Attempted to access index 3 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:971][420]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:971][420]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:972][420]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:972][420]LogScript: Warning: Script Msg: Attempted to access index 5 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:972][420]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:972][420]LogScript: Warning: Script Msg: Attempted to access index 6 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:972][420]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:972][420]LogScript: Warning: Script Msg: Attempted to access index 7 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:972][420]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:972][420]LogScript: Warning: Script Msg: Attempted to access index 8 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:972][420]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:973][420]LogScript: Warning: Script Msg: Attempted to access index 9 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:973][420]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:973][420]LogScript: Warning: Script Msg: Attempted to access index 10 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:973][420]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:973][420]LogScript: Warning: Script Msg: Attempted to access index 11 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:974][420]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:974][420]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:974][420]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:974][420]LogScript: Warning: Script Msg: Attempted to access index 13 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:974][420]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:974][420]LogScript: Warning: Script Msg: Attempted to access index 14 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:975][420]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:975][420]LogScript: Warning: Script Msg: Attempted to access index 15 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:975][420]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:975][420]LogScript: Warning: Script Msg: Attempted to access index 16 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:976][420]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:976][420]LogScript: Warning: Script Msg: Attempted to access index 17 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:976][420]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:976][420]LogScript: Warning: Script Msg: Attempted to access index 18 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:976][420]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:976][420]LogScript: Warning: Script Msg: Attempted to access index 19 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:977][420]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:977][420]LogScript: Warning: Script Msg: Attempted to access index 20 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:977][420]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:977][420]LogScript: Warning: Script Msg: Attempted to access index 21 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:977][420]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:977][420]LogScript: Warning: Script Msg: Attempted to access index 22 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:977][420]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:978][420]LogScript: Warning: Script Msg: Attempted to access index 23 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.37:978][420]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Array' of length 0 in '/Game/Inventory/Content/InvUI/UI_INVENTORY.UI_INVENTORY_C:SetWidgetStyle'!
+[2019.07.25-05.22.37:978][420]LogScript: Warning: Script Msg: Attempted to access index 24 from array 'Inventory' of length 0 in '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C'!
+[2019.07.25-05.22.38:961][538]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.22.38:962][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.22.39:007][538]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.25-05.22.39:007][538]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.ThirdPersonExampleMap_Auto5:PersistentLevel.ThirdPersonExampleMap_Auto5'
+[2019.07.25-05.22.39:058][538]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.25-05.22.39:071][538]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2019.07.25-05.22.39:100][539]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.07.25-05.22.40:721][634]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.25-05.23.05:035][890]LogUObjectBase: Warning: Object is not registered
+[2019.07.25-05.23.05:035][890]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.07.25-05.23.05:574][890]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.539 s
+[2019.07.25-05.23.05:574][890]LogOutputDevice: Error: === Handled ensure: ===
+[2019.07.25-05.23.05:574][890]LogOutputDevice: Error: 
+[2019.07.25-05.23.05:574][890]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1156]
+[2019.07.25-05.23.05:574][890]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.07.25-05.23.05:574][890]LogOutputDevice: Error: Stack: 
+[2019.07.25-05.23.05:574][890]LogOutputDevice: Error: [Callstack] 0x00007ffb2f25c0c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.07.25-05.23.05:574][890]LogOutputDevice: Error: [Callstack] 0x00007ffb2ead6fee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.07.25-05.23.05:574][890]LogOutputDevice: Error: [Callstack] 0x00007ffb2eae4e00 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.07.25-05.23.05:574][890]LogOutputDevice: Error: [Callstack] 0x00007ffb2b2e37f2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.07.25-05.23.05:574][890]LogOutputDevice: Error: [Callstack] 0x00007ffb1aef5cfa UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.07.25-05.23.05:574][890]LogOutputDevice: Error: [Callstack] 0x00007ffb1aeb1e47 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.07.25-05.23.05:574][890]LogOutputDevice: Error: [Callstack] 0x00007ffb3f625984 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.25-05.23.05:574][890]LogOutputDevice: Error: [Callstack] 0x00007ffb3f8115e3 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.25-05.23.05:574][890]LogOutputDevice: Error: [Callstack] 0x00007ffb3f66d70b UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.25-05.23.05:574][890]LogOutputDevice: Error: [Callstack] 0x00007ffb3f64af5a UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.25-05.23.05:574][890]LogOutputDevice: Error: [Callstack] 0x00007ffb3f640287 UE4Editor-Slate.dll!UnknownFunction []
+[2019.07.25-05.23.05:574][890]LogOutputDevice: Error: [Callstack] 0x00007ffb5936b726 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.25-05.23.05:574][890]LogOutputDevice: Error: [Callstack] 0x00007ffb5935ef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.25-05.23.05:574][890]LogOutputDevice: Error: [Callstack] 0x00007ffb5936d77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.25-05.23.05:574][890]LogOutputDevice: Error: [Callstack] 0x00007ffb5935c090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.25-05.23.05:575][890]LogOutputDevice: Error: [Callstack] 0x00007ffb7947ca66 USER32.dll!UnknownFunction []
+[2019.07.25-05.23.05:575][890]LogOutputDevice: Error: [Callstack] 0x00007ffb7947c582 USER32.dll!UnknownFunction []
+[2019.07.25-05.23.05:575][890]LogOutputDevice: Error: [Callstack] 0x00007ffb5936e946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.07.25-05.23.05:575][890]LogOutputDevice: Error: [Callstack] 0x00007ff70fb85d3e UE4Editor.exe!UnknownFunction []
+[2019.07.25-05.23.05:575][890]LogOutputDevice: Error: [Callstack] 0x00007ff70fb9554c UE4Editor.exe!UnknownFunction []
+[2019.07.25-05.23.05:575][890]LogOutputDevice: Error: [Callstack] 0x00007ff70fb955ca UE4Editor.exe!UnknownFunction []
+[2019.07.25-05.23.05:575][890]LogOutputDevice: Error: [Callstack] 0x00007ff70fba316c UE4Editor.exe!UnknownFunction []
+[2019.07.25-05.23.05:575][890]LogOutputDevice: Error: [Callstack] 0x00007ff70fba5b8e UE4Editor.exe!UnknownFunction []
+[2019.07.25-05.23.05:575][890]LogOutputDevice: Error: [Callstack] 0x00007ffb7a417974 KERNEL32.DLL!UnknownFunction []
+[2019.07.25-05.23.05:575][890]LogOutputDevice: Error: [Callstack] 0x00007ffb7a5ca271 ntdll.dll!UnknownFunction []
+[2019.07.25-05.23.05:575][890]LogOutputDevice: Error: 
+[2019.07.25-05.23.05:621][890]LogStats:                SubmitErrorReport -  0.000 s
